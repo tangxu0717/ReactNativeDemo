@@ -45,7 +45,7 @@ export default class App extends Component {
                 style={{width: 30, height: 30}}
                 source={require('./img/icon_index_home_press.png')}
                 />
-              <Text style={{color:'#999999'}}>首页2</Text>
+              <Text style={{color:'white'}}>首页</Text>
             </View>
             <View style={{justifyContent: 'center', alignItems: 'center'}}>
               <Image
